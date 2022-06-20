@@ -1,0 +1,4 @@
+Name Mariia
+Age 26 
+Pets 0
+Wages 800
